@@ -36,3 +36,7 @@ Sinta-se à vontade para contribuir para este projeto. Você pode sugerir melhor
 3. Faça as alterações desejadas e commit-as: `git commit -m 'Minha contribuição'`.
 4. Faça o push para o seu fork: `git push origin minha-contribuicao`.
 5. Abra um pull request neste repositório.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
